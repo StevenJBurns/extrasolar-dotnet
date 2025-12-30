@@ -1,0 +1,55 @@
+# --------------------------
+# .NET / C# artifacts
+# --------------------------
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.user
+*.suo
+*.log
+
+# --------------------------
+# Visual Studio / Rider
+# --------------------------
+.vs/
+.idea/
+*.userprefs
+*.DotSettings.user
+*.sln.docstates
+
+# --------------------------
+# Visual Studio Code
+# --------------------------
+.vscode/
+.history/
+
+# --------------------------
+# Optional .NET tooling caches
+# --------------------------
+*.nupkg
+.nuget/
+packages/
+
+# --------------------------
+# MacOS
+# --------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --------------------------
+# Windows
+# --------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --------------------------
+# Linux
+# --------------------------
+*~
+.nfs*
